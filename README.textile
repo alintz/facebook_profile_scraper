@@ -1,0 +1,1 @@
+A small script which counts through Facebook profiles capturing the information available through the Facebook Graph page. 
